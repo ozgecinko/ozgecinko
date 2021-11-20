@@ -3,7 +3,6 @@
 🦾 My name is Özge. I'm just like the meaning of my name; **different** and **unique**. I also identify myself as _explorer minded_ and _enthusiast_. <br>
 <a href="https://github.com/ozgecinko"><img align='right' src="https://user-images.githubusercontent.com/58422765/132687817-221d8069-69dc-4ac8-bbd7-ddc9c0e9f805.gif" width="230"></a>
 🔭 I'm studying Computer Engineering at Sakarya University. For as long as I've known myself, computer science has been my passion and that's why I am open to improve myself in any area about computer science.<br>
-🌱 I'm mostly interested in **artificial intelligence**, **computer vision** and **interactive 3D web technologies**. Recently, I've been interested in **game development**.
 
 
 ### Contact me 📫
