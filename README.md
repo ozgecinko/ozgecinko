@@ -5,8 +5,10 @@
 👩‍🎓 I'm Computer Engineering graduate from Sakarya University.
 
 👩‍💻 For as long as I've known myself, computer science has been my passion.
+<br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=84D188&width=435&lines=%F0%9F%91%BD+I+code+anything+I+want.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=17&pause=1000&color=92D38A&width=250&height=30&lines=%F0%9F%91%BD+I+code+anything+I+want.)](https://git.io/typing-svg)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥳
 ### Connect with me 📫
