@@ -1,16 +1,14 @@
-## Hello world! 👋
+## Hello, world! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&size=17&duration=3000&pause=1000&color=92D38A&width=250&height=30&lines=%F0%9F%91%BD+I+code+anything+I+want.)](https://git.io/typing-svg)
 --------
-✰ My name is Özge and just like the meaning of my name suggests, I'm **unique** and **different**. I'm an engineer who likes to create tools and play with bugs. I'm a self-taught researcher who enjoys delving deeply into topics. 👩‍💻
+✰ My name is Özge and just like the meaning of my name suggests, I'm **unique** and **different**. 
 
-✰ I have a BS in Computer Engineering from Sakarya University. 
+✰ I hold a Bachelor's degree in Computer Engineering from Sakarya University, and I'm enthusiastic about machine learning, natural language processing and software development.
 
-✰ I have 8 months of previous work experience as a Software Engineer at BrandZone. 
+✰ As an engineer, I thrive on creating innovative tools, and as a developer, I relish solving complex problems, especially when it comes to debugging. My enthusiasm for research leads me to delve deeply into the world of computer science.
 
-✰ I have been Data Science and Machine Learning Bootcamp Participant at Miuul.
-
-✰ I am an avid blogger and enjoy writing about various topics. I regularly write articles in [here](https://ozgecinko.medium.com/).
+✰ I'm a passionate blogger, regularly sharing my creative insights on various topics through my articles at [here](https://ozgecinko.medium.com/).
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥳
 
