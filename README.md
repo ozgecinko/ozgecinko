@@ -13,28 +13,22 @@ For me, engineering is a creative craft: a way of turning thoughts, emotions, an
 
 I love researching, building, learning, and exploring because they make me feel alive in the deepest way. I also love expressing myself through writing, speaking, and meaningful conversations, often inspired by art along the way.
 
-Whether I'm sharing ideas at events, writing on [Medium](https://ozgecinko.medium.com/), or building projects on GitHub and Kaggle, I try to leave pieces of myself in everything I create.
+In every idea I share, every word I write, and every project I build, I try to leave a piece of who I am.
 
----
-
-## ✍️ Writing
+### ✍️ Writing
 
 Most of my writing lives on [Medium](https://ozgecinko.medium.com/), where I turn real problems into clear, practical walkthroughs.
 Some topics I write about:
-* 🔬 How Shazam Identifies Songs in 5 Seconds
-* 🧠 Designing Memory for AI Applications
-
----
+* LLM-Based Recommendation Systems
+* How Shazam Identifies Songs in 5 Seconds
+* Designing Memory for AI Applications
 
 ## 🌍 Open Source & Community
 
 I care about communities that make technology more welcoming, creative, and accessible.
-
 * 🇹🇷 PyLadies Istanbul Co-organizer
 * 🚀 PyTorch Docathon 2026 — my first open-source contribution
 * 🎤 Speaker at Python, data, and AI events
-
----
 
 ## 🎤 Speaking
 
@@ -43,11 +37,12 @@ I care about communities that make technology more welcoming, creative, and acce
 | **PyData London 2026**     | LLM-Based Recommendation Systems: From Embeddings to Real Personalization  |
 | **PyCon Italia 2026**      | Designing Memory for AI Applications in Python                             |
 | **PyCon Italia 2026**      | How Shazam Identifies Songs in 5 Seconds: Audio Fingerprinting with Python |
+| **PyCon Lithuania 2026**   | One Algorithm To Rule Them All: The Master Algorithm |
 | **PyCon Lithuania 2026**   | Measuring Experiments in LLMs: A/B Tests and Automated Testing, with Kader Miyanyedi |
 | **PyCon Sweden 2025**      | Building Harry Potter’s Mirror of Erised Using Python and Generative AI    |
 | **PyCon Netherlands 2025** | How Shazam Identifies Songs in 5 Seconds: Audio Fingerprinting with Python |
 
----
+You can access a collection of my conference talks, slides, demos, and resources from events from [here](https://ozgecinko.github.io/conferences/).
 
 ## 🤝 Let’s connect!
 
